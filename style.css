@@ -132,26 +132,31 @@ body
     }
     #boxes{
         flex-direction: column;
+        justify-content: center;
        align-items: center;
         margin: auto 1rem;
         margin-top: 12rem;
         width: 90%;
     }
+    .first
+    {
+        width: 24rem;
+    }
     .sec
     {
-        width: 26rem;
+        width: 24rem;
     }
     .bar
     {
-        width:20rem ;
+        width:18rem ;
     }
     .b1
     {
-        width: 16rem;
+        width: 14rem;
     }
     .dot
     {
-        left: 15rem;
+        left: 13rem;
     }
     .sec p
     {
